@@ -1,1 +1,1 @@
-https://github.com/Decentnamed/PWA_project_session
+https://dominikpr.github.io/project_PWA/

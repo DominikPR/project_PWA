@@ -3,7 +3,7 @@
     "background_color": "#f69435",
     "display": "browser",
     "scope": "/",
-    "start_url": "/https",
+    "start_url": "https://dominikpr.github.io/project_PWA/",
     "name": "Dominik Keller Car blog",
     "short_name": "carApp",
     "description": "PWA project",
